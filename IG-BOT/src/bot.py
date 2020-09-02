@@ -203,7 +203,7 @@ if __name__ == '__main__':
 
 # 0 - 21 Basic Functionality
 # 22 - 31 GUI
-# 32 - X Scheduling
+# 32 - 39 Scheduling
 
 
 
